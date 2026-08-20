@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://zcl.888.moe/sitemap.xml
+Sitemap: https://iamzhang.top/sitemap.xml
